@@ -1440,32 +1440,12 @@ blog page css
 
 }
 .blog-bg-1 {
-  background: url(assets/img/blog-blog-1.jpg);
+  background: url(assets/img/stock.jpg);
 }
 .blog-bg-2 {
-  background: url(assets/img/blog-blog-2.jpg);
+  background: url(assets/img/1*lbVUijO10-eTg66skd0spg.png);
 }
-.blog-bg-3 {
-  background: url(assets/img/blog-blog-3.jpg);
-}
-.blog-bg-4 {
-  background: url(assets/img/blog-blog-4.jpg);
-}
-.blog-bg-5 {
-  background: url(assets/img/blog-blog-5.jpg);
-}
-.blog-bg-6 {
-  background: url(assets/img/blog-blog-6.jpg);
-}
-.blog-bg-7 {
-  background: url(assets/img/blog-blog-7.jpg);
-}
-.blog-bg-8 {
-  background: url(assets/img/blog-blog-8.jpg);
-}
-.blog-bg-9 {
-  background: url(assets/img/blog-blog-4.jpg);
-}
+
 
 .single-blog-text a {
   color: #fff;
